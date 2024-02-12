@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Atefan
+- 👀 I’m interested in Programing in general
+- 🌱 I currently know C, C++, Java, JavaScript, Python, React .....  
+- 📫 Send me e-mails
+- ⚡ Fun fact: This read-me is for the copilot setup
